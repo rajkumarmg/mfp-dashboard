@@ -1,7 +1,21 @@
 ## setup instruction
-To start dev environment, please run,
+### To start dev env in windows, please follow the below steps on Windows Cmd or Bash CLI
+
+Assuming you already have nodejs installed.
+Run the following command one by one.
+```
+git clone https://github.com/rajkumarmg/mfp-dashboard.git
+cd mfp-dashboard
+npm i
+npm start
+```
+Once started try accessing http://localhost:8083 in Google Chrome.
+
+
+### To start dev environment in linux, please run,
 
 ```
+
 sudo npm start
 ```
 
